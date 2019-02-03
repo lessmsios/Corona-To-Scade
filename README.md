@@ -22,7 +22,7 @@ Note: All project files and resources will be added when I do the UI. I'll give 
  * Graphics:
  * Hardware:
  * 05 - Interface:
-     1 - ButtonEvents (80%)
+     *   1 - ButtonEvents (80%)
  * Media:
  * Monetization:
  * Networking:
